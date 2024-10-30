@@ -1,0 +1,41 @@
+.charttypesmenu {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #c3c4c7;
+}
+
+.pie_chart_container table tr th {
+    text-align: left;
+}
+.bubble_chart_container table tr th {
+    text-align: left;
+}
+.scatter_chart_container table tr th {
+    text-align: left;
+}
+.line_chart_container table tr th {
+    text-align: left;
+}
+.bar_chart_container table tr th {
+    text-align: left;
+}
+.doughnut_chart_container table tr th {
+    text-align: left;
+}
+.polarArea_chart_container table tr th {
+    text-align: left;
+}
+p.multichart {
+    margin: 5px;
+    font-family: monospace;
+    font-size: 14px;
+    width: 60%;
+    margin-left: 14%;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+label.chart_lables {
+    font-size: 16px;
+    font-weight: 700;
+}
